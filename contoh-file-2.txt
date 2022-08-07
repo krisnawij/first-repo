@@ -1,1 +1,2 @@
-ini adalah contoh file kedua yang dibuat didalam branch cabang-1
+ini adalah contoh file kedua yang dibuat didalam branch cabang-1.
+dan ini adalah baris kedua yang ditambahkan setelah diedit.
