@@ -1,2 +1,2 @@
 ini hanyalah sebuah contoh file txt yang didalamnya tidak terdapat apa-apa.
-ini seharusnya baris ketiga, tetapi tadi baris keduanya sudah dihapus jadi ini menjadi baris yang kedua.
+ini seharusnya baris ketiga, akan tetapi tadi baris keduanya sudah dihapuskan, jadi otomatis ini menjadi baris yang kedua.
