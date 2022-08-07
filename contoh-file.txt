@@ -1,1 +1,2 @@
 ini hanyalah sebuah contoh file txt yang didalamnya tidak terdapat apa-apa.
+dan baris kedua ini adalah kalimat tambahan setelah diedit.
